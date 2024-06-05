@@ -1,0 +1,6 @@
+[submodule "todos-remote-app"]
+	path = todos-remote-app
+	url = https://github.com/gamanc/todos-remote-app.git
+[submodule "todos-home-app"]
+	path = todos-home-app
+	url = https://github.com/gamanc/todos-home-app.git
