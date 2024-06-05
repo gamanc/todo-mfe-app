@@ -6,7 +6,7 @@ Styling was added using [water.css](https://watercss.kognise.dev/)
 
 To run and tests this app follow this steps:
 
-1. Open some terminal on the todo-mfe folder and run:
+1. Open some terminal on the todos-remote-app folder and run:
 
    ```bash
    npm install
@@ -15,7 +15,7 @@ To run and tests this app follow this steps:
 
    Keep that running
 
-2. In a separate terminal, open the host-app folder and run:
+2. In a separate terminal, open the todos-host-app folder and run:
    ```
    npm install
    npm run dev
